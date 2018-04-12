@@ -1,2 +1,2 @@
 language: csharp
-solution: Bowling.sln
+solution: Bowling/Bowling.sln
