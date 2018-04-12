@@ -1,3 +1,2 @@
-language: cpp
+language: csharp
 solution: Bowling.sln
-script: msbuild Bowling.vcxproj /p:configuration=debug
