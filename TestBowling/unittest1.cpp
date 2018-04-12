@@ -42,6 +42,7 @@ namespace UnitTest1
 			game.addTuple(tuple<int, int>(10, 0));
 			game.addTuple(tuple<int, int>(10, 0));
 			game.addTuple(tuple<int, int>(10, 0));
+			//test
 			Assert::IsTrue(80 == game.calculScore());
 			game.s.clear();
 			game.addTuple(tuple<int, int>(2, 8));
