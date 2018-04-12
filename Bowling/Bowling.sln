@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bowling", "Bowling.vcxproj", "{69BB4F22-1637-4879-8B06-11F6B52C1123}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestBowling", "..\TestBowling\TestBowling.vcxproj", "{0ED48A52-0739-46A7-AD9B-57E28A05351F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{69BB4F22-1637-4879-8B06-11F6B52C1123}.Release|x64.Build.0 = Release|x64
 		{69BB4F22-1637-4879-8B06-11F6B52C1123}.Release|x86.ActiveCfg = Release|Win32
 		{69BB4F22-1637-4879-8B06-11F6B52C1123}.Release|x86.Build.0 = Release|Win32
+		{0ED48A52-0739-46A7-AD9B-57E28A05351F}.Debug|x64.ActiveCfg = Debug|x64
+		{0ED48A52-0739-46A7-AD9B-57E28A05351F}.Debug|x64.Build.0 = Debug|x64
+		{0ED48A52-0739-46A7-AD9B-57E28A05351F}.Debug|x86.ActiveCfg = Debug|Win32
+		{0ED48A52-0739-46A7-AD9B-57E28A05351F}.Debug|x86.Build.0 = Debug|Win32
+		{0ED48A52-0739-46A7-AD9B-57E28A05351F}.Release|x64.ActiveCfg = Release|x64
+		{0ED48A52-0739-46A7-AD9B-57E28A05351F}.Release|x64.Build.0 = Release|x64
+		{0ED48A52-0739-46A7-AD9B-57E28A05351F}.Release|x86.ActiveCfg = Release|Win32
+		{0ED48A52-0739-46A7-AD9B-57E28A05351F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
